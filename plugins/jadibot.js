@@ -41,7 +41,7 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
     }, 60000)
     conn.on('close', conn.logger.info)
     global.conns.push(conn)
-  } else throw 'Tidak bisa membuat bot didalam bot!\n\nhttps://wa.me/0882009496234' + global.conn.user.jid.split`@`[0] + '?text=.jadibot'
+  } else throw 'Tidak bisa membuat bot didalam bot!\n\nhttps://wa.me/' + global.conn.user.jid.split`@`[0] + '?text=.jadibot'
 }
 handler.help = ['jadibot']
 handler.tags = ['jadibot']
