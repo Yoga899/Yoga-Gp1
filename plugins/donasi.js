@@ -1,8 +1,8 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa,Dana,Gopay」
-│ • Smartfren: [0882-0094-96234]
+╭─「 Donasi 」
 │ • Dana: [0882-0094-96234]
 │ • Gopay: [0882-0094-96234]
+│ • Smartfren: [0882-0094-96234]
 │ 「 Chat OWNER 」
 │ > Ingin donasi? Wa.me/62882009496234
 ╰────

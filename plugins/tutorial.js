@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-Tutorial Buat Bot WA:
-Credit: *~Yoga Bt*
+Tutorial Buat Bot Tapi Gada Pc? Tenang
+Credit: *~YogaBt*
 
 Ketik di *[TERMUX]*
 1) $pkg install git
@@ -10,9 +10,9 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Yoga899/Yoga-Gp3
+5) $git clone https://github.com/× × ×
 6) $ls
-7) $cd Yoga-Gp3
+7) $cd -------
 
 yang *terakhirr*..
 Penginstalannya cuy :)
